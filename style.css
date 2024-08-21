@@ -1,0 +1,30 @@
+.destaque{
+background-color: #000000;
+    display: flow-root;
+    padding: 30px 30px;
+    border-radius: 25px;
+    
+}
+.colunas{
+position:relative;
+float: left;
+width: 45%;
+height: 250px;
+background:url("../img/☾.jpeg");
+margin: 0px 10px;
+border-radius: 15px;
+}
+.coluna2{
+    position:relative;
+    float: right;
+    width: 45%;
+    height: 250px;
+    background:url("../img/download\ \(1\).jpeg");
+    margin: 0px 10px;
+    border-radius: 15px;
+
+
+
+
+}
+
