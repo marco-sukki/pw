@@ -1,30 +1,40 @@
 .destaque{
-background-color: #000000;
-    display: flow-root;
-    padding: 30px 30px;
-    border-radius: 25px;
+    background-color: #000000;
+        display: flow-root;
+        padding: 35px 25px;
+        border-radius: 15px;
+               
+    }
+h1{
+    color: #a8831e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 100px;
+}
+    .coluna1{
+        position:relative;
+        float: left;
+        display: flex;
+
+        width: 45%;
+        height: 300px;
+        background:url("../img/transferir.jpg");
+        margin: 0px 10px;
+        border-radius: 15px;
+    }
+    .coluna2{
+        position:relative;
+        float: right;
+        display: flex;
+
+        width: 45%;
+        height: 300px;
+        background: no-repeat url("../img/fullmetal.jpg");
+        margin: 0px 10px;
+        border-radius: 15px;
+    }
+.p{
+color: blue;
+font-size: 40px;
+}
     
-}
-.colunas{
-position:relative;
-float: left;
-width: 45%;
-height: 250px;
-background:url("../img/☾.jpeg");
-margin: 0px 10px;
-border-radius: 15px;
-}
-.coluna2{
-    position:relative;
-    float: right;
-    width: 45%;
-    height: 250px;
-    background:url("../img/download\ \(1\).jpeg");
-    margin: 0px 10px;
-    border-radius: 15px;
-
-
-
-
-}
-
