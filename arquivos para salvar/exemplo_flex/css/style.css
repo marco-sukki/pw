@@ -1,0 +1,21 @@
+body{
+    background: #fff;
+}
+
+.container{
+    height: 400px;
+    background: #00f;
+    margin-bottom: 2px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.quadrado{
+    width: 200px;
+    height: 200px;
+    background: #f00;
+}
